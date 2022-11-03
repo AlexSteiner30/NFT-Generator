@@ -1,0 +1,11 @@
+C:\Users\Alex\Desktop\Programmazione\C#\NFT Generator\NFT Generator\bin\Debug\NFT Generator.exe.config
+C:\Users\Alex\Desktop\Programmazione\C#\NFT Generator\NFT Generator\bin\Debug\NFT Generator.exe
+C:\Users\Alex\Desktop\Programmazione\C#\NFT Generator\NFT Generator\bin\Debug\NFT Generator.pdb
+C:\Users\Alex\Desktop\Programmazione\C#\NFT Generator\NFT Generator\obj\Debug\NFT Generator.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Programmazione\C#\NFT Generator\NFT Generator\obj\Debug\NFT_Generator.Properties.Resources.resources
+C:\Users\Alex\Desktop\Programmazione\C#\NFT Generator\NFT Generator\obj\Debug\NFT Generator.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Programmazione\C#\NFT Generator\NFT Generator\obj\Debug\NFT Generator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Programmazione\C#\NFT Generator\NFT Generator\obj\Debug\NFT Generator.exe
+C:\Users\Alex\Desktop\Programmazione\C#\NFT Generator\NFT Generator\obj\Debug\NFT Generator.pdb
+C:\Users\Alex\Desktop\Programmazione\C#\NFT Generator\NFT Generator\obj\Debug\NFT_Generator.NFTGenerationForm.resources
+C:\Users\Alex\Desktop\Programmazione\C#\NFT Generator\NFT Generator\obj\Debug\NFT_Generator.NFTGeneratorComponentsForm.resources
